@@ -2,7 +2,7 @@
 - 👀 I’m interested in php, laravel, mysql, postgresql, dart, flutter, js, bootstrap, tailwind
 - 🌱 I’m currently learning all of above to be better programmer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to buy me a beer: https://www.buymeacoffee.com/buymesomebeer
 
 <!---
 ilikecoding34/ilikecoding34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
