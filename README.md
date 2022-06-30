@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ilikecoding34
 - 👀 I’m interested in php, laravel, mysql, postgresql, dart, flutter, js, bootstrap, tailwind
 - 🌱 I’m currently learning all of above to be better programmer
-- 💞️ I’m looking to collaborate on ...
+- 📖 You can find here some interesting links in programming topics: https://informatikusleszek.hu/
+- 📱 And my android app written in flutter: https://play.google.com/store/apps/details?id=com.informatikus.blog
 - 📫 How to buy me a beer: https://www.buymeacoffee.com/buymesomebeer
 
 <!---
