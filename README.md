@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilikecoding34
+- 👋 Hi, I’m Fejes, David
 - 👀 I’m interested in php, laravel, mysql, postgresql, dart, flutter, js, bootstrap, tailwind
 - 🌱 I’m currently learning all of above to be better programmer
 - 📖 You can find here some interesting links in programming topics: https://informatikusleszek.hu/
